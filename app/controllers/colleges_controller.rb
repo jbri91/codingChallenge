@@ -1,0 +1,5 @@
+class CollegesController < ApplicationController
+
+
+    
+end
